@@ -1,0 +1,266 @@
+lmutil - Copyright (c) 1989-2015 Flexera Software LLC. All Rights Reserved.
+Flexible License Manager status on Sun 7/7/2019 14:34
+
+License server status: 27000@server01
+    License file(s) on server01: /opt/flexnetserver/autodesk.lic:
+
+server01: license server UP (MASTER) v11.14.1
+
+Vendor daemon status (on server01):
+
+  adskflex: UP v11.14.1
+Feature usage info:
+
+Users of 86985ARNOL_T_F:  (Total of 80 licenses issued;  Total of 0 licenses in use)
+
+Users of 86828MECOLL_T_F:  (Total of 16 licenses issued;  Total of 2 licenses in use)
+
+  "86828MECOLL_T_F" v1.000, vendor: adskflex, expiry: 26-may-2020
+  floating license
+
+    userXXX workstationXXX /dev/pts/0 (v1.000) (server01/27000 5628), start Thu 7/4 0:42
+    userXXX workstationXXX /dev/tty (v1.000) (server01/27000 225), start Fri 7/5 2:34
+
+Users of 85694MAYAMMR1_IC_T_F:  (Total of 80 licenses issued;  Total of 0 licenses in use)
+
+Users of 85860TRTLPB_IC_T_F:  (Total of 80 licenses issued;  Total of 0 licenses in use)
+
+Users of 86437TRTLPB_2016_0F:  (Total of 80 licenses issued;  Total of 0 licenses in use)
+
+Users of 86214TRTLPB_2015_0F:  (Total of 80 licenses issued;  Total of 0 licenses in use)
+
+Users of 86437MAYAMMR1_2016_0F:  (Total of 80 licenses issued;  Total of 0 licenses in use)
+
+Users of 86213MAYAMMR1_2015_0F:  (Total of 80 licenses issued;  Total of 0 licenses in use)
+
+Users of 87047MAYA_2019_0F:  (Total of 16 licenses issued;  Total of 1 license in use)
+
+  "87047MAYA_2019_0F" v1.000, vendor: adskflex, expiry: 26-may-2020
+  floating license
+
+    userXXX workstationXXX /dev/tty (v1.0) (server01/27000 125), start Fri 7/5 2:34
+
+Users of 86884MAYA_2018_0F:  (Total of 16 licenses issued;  Total of 1 license in use)
+
+  "86884MAYA_2018_0F" v1.000, vendor: adskflex, expiry: 26-may-2020
+  floating license
+
+    userXXX workstationXXX /dev/pts/0 (v1.0) (server01/27000 5528), start Thu 7/4 0:42
+
+Users of 86618MAYA_2017_0F:  (Total of 16 licenses issued;  Total of 0 licenses in use)
+
+Users of 86437MAYA_2016_0F:  (Total of 16 licenses issued;  Total of 0 licenses in use)
+
+Users of 86213MAYA_2015_0F:  (Total of 16 licenses issued;  Total of 0 licenses in use)
+
+Users of 872423DSMAX_2020_0F:  (Total of 16 licenses issued;  Total of 0 licenses in use)
+
+Users of 870723DSMAX_2019_0F:  (Total of 16 licenses issued;  Total of 0 licenses in use)
+
+Users of 868333DSMAX_2018_0F:  (Total of 16 licenses issued;  Total of 0 licenses in use)
+
+Users of 866333DSMAX_2017_0F:  (Total of 16 licenses issued;  Total of 0 licenses in use)
+
+Users of 864713DSMAX_2016_0F:  (Total of 16 licenses issued;  Total of 0 licenses in use)
+
+Users of 862623DSMAX_2015_0F:  (Total of 16 licenses issued;  Total of 0 licenses in use)
+
+Users of 86263MAXDES_2015_0F:  (Total of 16 licenses issued;  Total of 0 licenses in use)
+
+Users of 87077MOBPRO_2019_0F:  (Total of 16 licenses issued;  Total of 0 licenses in use)
+
+Users of 86885MOBPRO_2018_0F:  (Total of 16 licenses issued;  Total of 0 licenses in use)
+
+Users of 86623MOBPRO_2017_0F:  (Total of 16 licenses issued;  Total of 0 licenses in use)
+
+Users of 86460MOBPRO_2016_0F:  (Total of 16 licenses issued;  Total of 0 licenses in use)
+
+Users of 86264MOBPRO_2015_0F:  (Total of 16 licenses issued;  Total of 0 licenses in use)
+
+Users of 87078MBXPRO_2019_0F:  (Total of 16 licenses issued;  Total of 0 licenses in use)
+
+Users of 86886MBXPRO_2018_0F:  (Total of 16 licenses issued;  Total of 0 licenses in use)
+
+Users of 86624MBXPRO_2017_0F:  (Total of 16 licenses issued;  Total of 0 licenses in use)
+
+Users of 86461MBXPRO_2016_0F:  (Total of 16 licenses issued;  Total of 0 licenses in use)
+
+Users of 86265MBXPRO_2015_0F:  (Total of 16 licenses issued;  Total of 0 licenses in use)
+
+Users of 87282RECAP_2020_0F:  (Total of 16 licenses issued;  Total of 0 licenses in use)
+
+Users of 87093RECAP_2019_0F:  (Total of 16 licenses issued;  Total of 0 licenses in use)
+
+Users of 86984RECAP_2018_0F:  (Total of 16 licenses issued;  Total of 0 licenses in use)
+
+Users of 86747RECAP_2017_0F:  (Total of 16 licenses issued;  Total of 0 licenses in use)
+
+Users of 86538RECAP_2016_0F:  (Total of 16 licenses issued;  Total of 0 licenses in use)
+
+Users of 86402RECAP_2015_0F:  (Total of 16 licenses issued;  Total of 0 licenses in use)
+
+Users of 87178SBPNL_2019_0F:  (Total of 16 licenses issued;  Total of 0 licenses in use)
+
+Users of 87020SBPNL_2018_0F:  (Total of 16 licenses issued;  Total of 0 licenses in use)
+
+Users of 86440SBPNL_2016_0F:  (Total of 16 licenses issued;  Total of 0 licenses in use)
+
+Users of 86352SBPNL_2015_0F:  (Total of 16 licenses issued;  Total of 0 licenses in use)
+
+Users of 86985ARNOL_2018_0F:  (Total of 80 licenses issued;  Total of 0 licenses in use)
+
+
+
+----------------------------------------------------------------------------
+License server status: 27000@server02
+    License file(s) on server02: /opt/flexnetserver/autodesk.lic:
+
+    server02: license server UP (MASTER) v11.14.1
+
+Vendor daemon status (on server02):
+
+  adskflex: UP v11.14.1
+Feature usage info:
+
+Users of 86985ARNOL_T_F:  (Total of 75 licenses issued;  Total of 0 licenses in use)
+
+Users of 85527MAYA_T_F:  (Total of 5 licenses issued;  Total of 1 license in use)
+
+  "85527MAYA_T_F" v1.000, vendor: adskflex, expiry: 24-jul-2020
+  floating license
+
+    userXXX workstationXXX /dev/tty (v1.000) (server02/27000 9002), start Thu 7/4 3:34
+
+Users of 85694MAYAMMR1_T_F:  (Total of 25 licenses issued;  Total of 0 licenses in use)
+
+Users of 85860TRTLPB_T_F:  (Total of 25 licenses issued;  Total of 0 licenses in use)
+
+Users of 86828MECOLL_T_F:  (Total of 15 licenses issued;  Total of 0 licenses in use)
+
+Users of 85694MAYAMMR1_IC_T_F:  (Total of 75 licenses issued;  Total of 0 licenses in use)
+
+Users of 85860TRTLPB_IC_T_F:  (Total of 75 licenses issued;  Total of 0 licenses in use)
+
+Users of 86437TRTLPB_2016_0F:  (Total of 100 licenses issued;  Total of 0 licenses in use)
+
+Users of 86214TRTLPB_2015_0F:  (Total of 100 licenses issued;  Total of 0 licenses in use)
+
+Users of 86437MAYAMMR1_2016_0F:  (Total of 100 licenses issued;  Total of 0 licenses in use)
+
+Users of 86213MAYAMMR1_2015_0F:  (Total of 100 licenses issued;  Total of 0 licenses in use)
+
+Users of 87047MAYA_2019_0F:  (Total of 20 licenses issued;  Total of 0 licenses in use)
+
+Users of 86884MAYA_2018_0F:  (Total of 20 licenses issued;  Total of 1 license in use)
+
+  "86884MAYA_2018_0F" v1.000, vendor: adskflex, expiry: 24-jul-2020
+  floating license
+
+    userXXX workstationXXX /dev/tty (v1.0) (server02/27000 10232), start Thu 7/4 3:34
+
+Users of 86618MAYA_2017_0F:  (Total of 20 licenses issued;  Total of 0 licenses in use)
+
+Users of 86437MAYA_2016_0F:  (Total of 20 licenses issued;  Total of 0 licenses in use)
+
+Users of 86213MAYA_2015_0F:  (Total of 20 licenses issued;  Total of 0 licenses in use)
+
+Users of 872423DSMAX_2020_0F:  (Total of 15 licenses issued;  Total of 0 licenses in use)
+
+Users of 870723DSMAX_2019_0F:  (Total of 15 licenses issued;  Total of 0 licenses in use)
+
+Users of 868333DSMAX_2018_0F:  (Total of 15 licenses issued;  Total of 0 licenses in use)
+
+Users of 866333DSMAX_2017_0F:  (Total of 15 licenses issued;  Total of 0 licenses in use)
+
+Users of 864713DSMAX_2016_0F:  (Total of 15 licenses issued;  Total of 0 licenses in use)
+
+Users of 862623DSMAX_2015_0F:  (Total of 15 licenses issued;  Total of 0 licenses in use)
+
+Users of 86263MAXDES_2015_0F:  (Total of 15 licenses issued;  Total of 0 licenses in use)
+
+Users of 87077MOBPRO_2019_0F:  (Total of 15 licenses issued;  Total of 0 licenses in use)
+
+Users of 86885MOBPRO_2018_0F:  (Total of 15 licenses issued;  Total of 0 licenses in use)
+
+Users of 86623MOBPRO_2017_0F:  (Total of 15 licenses issued;  Total of 0 licenses in use)
+
+Users of 86460MOBPRO_2016_0F:  (Total of 15 licenses issued;  Total of 0 licenses in use)
+
+Users of 86264MOBPRO_2015_0F:  (Total of 15 licenses issued;  Total of 0 licenses in use)
+
+Users of 87078MBXPRO_2019_0F:  (Total of 15 licenses issued;  Total of 0 licenses in use)
+
+Users of 86886MBXPRO_2018_0F:  (Total of 15 licenses issued;  Total of 0 licenses in use)
+
+Users of 86624MBXPRO_2017_0F:  (Total of 15 licenses issued;  Total of 0 licenses in use)
+
+Users of 86461MBXPRO_2016_0F:  (Total of 15 licenses issued;  Total of 0 licenses in use)
+
+Users of 86265MBXPRO_2015_0F:  (Total of 15 licenses issued;  Total of 0 licenses in use)
+
+Users of 87282RECAP_2020_0F:  (Total of 15 licenses issued;  Total of 0 licenses in use)
+
+Users of 87093RECAP_2019_0F:  (Total of 15 licenses issued;  Total of 0 licenses in use)
+
+Users of 86984RECAP_2018_0F:  (Total of 15 licenses issued;  Total of 0 licenses in use)
+
+Users of 86747RECAP_2017_0F:  (Total of 15 licenses issued;  Total of 0 licenses in use)
+
+Users of 86538RECAP_2016_0F:  (Total of 15 licenses issued;  Total of 0 licenses in use)
+
+Users of 86402RECAP_2015_0F:  (Total of 15 licenses issued;  Total of 0 licenses in use)
+
+Users of 87178SBPNL_2019_0F:  (Total of 15 licenses issued;  Total of 0 licenses in use)
+
+Users of 87020SBPNL_2018_0F:  (Total of 15 licenses issued;  Total of 0 licenses in use)
+
+Users of 86440SBPNL_2016_0F:  (Total of 15 licenses issued;  Total of 0 licenses in use)
+
+Users of 86352SBPNL_2015_0F:  (Total of 15 licenses issued;  Total of 0 licenses in use)
+
+Users of 86095TRTLPB_2014_0F:  (Total of 25 licenses issued;  Total of 0 licenses in use)
+
+Users of 86058MAYAMMR1_2014_0F:  (Total of 25 licenses issued;  Total of 0 licenses in use)
+
+Users of 86058MAYA_2014_0F:  (Total of 5 licenses issued;  Total of 0 licenses in use)
+
+Users of 86985ARNOL_2018_0F:  (Total of 75 licenses issued;  Total of 0 licenses in use)
+
+
+
+----------------------------------------------------------------------------
+License server status: 27000@server03
+    License file(s) on server03: /opt/flexnetserver/adsk_server.lic:
+
+      server03: license server UP (MASTER) v11.14.1
+
+Vendor daemon status (on server03):
+
+  adskflex: UP v11.14.1
+Feature usage info:
+
+Users of 86988A250_T_F:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+Users of 86993C300_A250_T_F:  (Total of 200 licenses issued;  Total of 0 licenses in use)
+
+Users of 86994WTGTWY_T_F:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+Users of 87164WTGTWY_2019_0F:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+Users of 86994WTGTWY_2018_0F:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+Users of 87163C300_2019_0F:  (Total of 200 licenses issued;  Total of 0 licenses in use)
+
+Users of 86993C300_2018_0F:  (Total of 200 licenses issued;  Total of 0 licenses in use)
+
+Users of 87154A250_2019_0F:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+Users of 86988A250_2018_0F:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+Users of 87301WTGTWY_2020_0F:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+Users of 87292C300_2020_0F:  (Total of 200 licenses issued;  Total of 0 licenses in use)
+
+Users of 87293A250_2020_0F:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+

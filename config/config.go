@@ -31,6 +31,7 @@ type License struct {
 	LicenseServer       string `yaml:"license_server,omitempty"`
 	FeaturesToExclude   string `yaml:"features_to_exclude,omitempty"`
 	FeaturesToInclude   string `yaml:"features_to_include,omitempty"`
+	PrettyNamePath      string `yaml:"pretty_name_path,omitempty"`
 	MonitorUsers        bool   `yaml:"monitor_users"`
 	MonitorReservations bool   `yaml:"monitor_reservations"`
 }

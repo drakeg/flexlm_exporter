@@ -45,5 +45,8 @@ func TestLoad(t *testing.T) {
 		if licenses.Name == "app3_domain2" && licenses.FeaturesToInclude != "" && licenses.FeaturesToExclude != "" {
 			t.Fatalf("'%s' and '%s' expected to be empty", licenses.FeaturesToInclude, licenses.FeaturesToExclude)
 		}
+		if licenses.Name == "app4_autodesk" && licenses.PrettyNamePath == "" {
+			t.Fatalf("'%s' not expected to be empty", licenses.PrettyNamePath)
+		}
 	}
 }

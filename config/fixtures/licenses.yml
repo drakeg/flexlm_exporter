@@ -24,3 +24,10 @@ licenses:
     features_to_include:
     monitor_users: True
     monitor_reservations: False
+  - name: app4_autodesk
+    license_file: /usr/local/flexlm/licenses/license.dat.app4
+    features_to_exclude:
+    features_to_include:
+    monitor_users: True
+    monitor_reservations: False
+    pretty_name_path: /usr/local/flexlm/licenses/autodesk_names.yml

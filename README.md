@@ -44,6 +44,12 @@ licenses:
     features_to_include: feature5,feature30
     monitor_users: True
     monitor_reservations: True
+  - name: app3
+    license_server: 28000@host1,28000@host2,28000@host3
+    features_to_include: feature5,feature30
+    monitor_users: True
+    monitor_reservations: True
+    pretty_name_path: /usr/local/flexlm/licenses/autodesk_names.yml
 ```
 
 Notes:
@@ -53,6 +59,10 @@ Notes:
  `port@host` combination format.
  2. You can exclude some features from exporting with `features_to_exclude`,
  **or** export some defined and exclude the rest with `feature_to_include`.
+ 3. You can define `pretty names` for feature codes on a yaml, so that the
+ **name** label will be replace with a pretty one. Examples are located on
+ *examples/pretty_names* directory. Please feel free for submitting PR on
+ other products.
 
 ## Running
 
